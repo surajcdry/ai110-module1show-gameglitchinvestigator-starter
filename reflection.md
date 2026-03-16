@@ -66,3 +66,6 @@ Answer each question in 3 to 5 sentences. Be specific and honest about what actu
 
 - In one or two sentences, describe how this project changed the way you think about AI generated code.
   - AI-generated code can look confident and clean but still contain subtle logic bugs — like the swapped hint messages or the sneaky `str()` conversion. This project taught me to always verify AI output by running the app and writing tests, rather than trusting that it works just because the code "looks right."
+
+
+Thank you!!

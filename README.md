@@ -50,4 +50,6 @@ It wrote the code, ran away, and now the game is unplayable.
 
 ## 🚀 Stretch Features
 
-- [x] **Challenge 1: Advanced Edge-Case Testing** — 21 pytest cases covering negative numbers, decimals, very large values, boundary guesses, score floor, and difficulty-range fallback. See `tests/test_game_logic.py`.
+**Challenge 1: Advanced Edge-Case Testing** — 21 pytest cases covering negative numbers, decimals, very large values, boundary guesses, score floor, and difficulty-range fallback. See `tests/test_game_logic.py`.
+
+Thank you!!
